@@ -5,4 +5,3 @@ tasks:
       before:
         cd /workspace
         curl "https://awscli.amazonaws.com/AWSCLIV2.msi" -o "AWSCLIV2.msi"
-        #sudo ./aws/install
